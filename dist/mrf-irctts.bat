@@ -1,0 +1,1 @@
+java -jar mrf-irctts-1.0.jar %*
